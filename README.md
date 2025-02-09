@@ -1,4 +1,7 @@
-## Hi there 👋
+## About
+### 关于我
+初出茅庐的新手。
+![](https://raw.githubusercontent.com/elysiamobi/elysiamobi/main/assets/github-contribution-grid-snake.svg)
 
 <!--
 **Elysiamobi/elysiamobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
