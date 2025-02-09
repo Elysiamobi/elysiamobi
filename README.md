@@ -8,4 +8,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Elysiamobi/Elysiamobi/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Elysiamobi/snk)_
+_generated with [Elysiamobi/snk](https://github.com/Elysiamobi/snk)_
